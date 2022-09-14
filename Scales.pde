@@ -7,7 +7,7 @@ int green;
 int blue;
 void setup() {
   size(700, 700);  //feel free to change the size
-  noLoop(); //stops the draw() function from repeating
+  //noLoop(); //stops the draw() function from repeating
 }
 void draw() {
 
